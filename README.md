@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> My Official account -> https://github.com/NikitaKorablev
+> My main account -> https://github.com/NikitaKorablev
 
 <!--
 **NikitaLeprikon/NikitaLeprikon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
